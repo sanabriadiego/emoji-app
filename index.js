@@ -1,4 +1,4 @@
-let myArray = ["🤬", "🥺", "😹"]
+let myArray = ["🤬", "🥺", "😹", "🦁", "🐇"]
 
 const addtoendBtn = document.getElementById("addtoend-btn")
 const addtobegBtn = document.getElementById("addtobeg-btn")
