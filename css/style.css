@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-image: linear-gradient(lightblue, #fff);
+    background-repeat: no-repeat;
+}
+
+/*TYPOGRAPHY*/
+
+#emojis-box{
+    font-size: 1.7rem;
+}
+
+#input-box{
+    font-size: 1.2rem;
+    padding: 0.3em;
+}
+
+.btn{
+    font-size: 1rem;
+    margin: 1em;
+    padding: 0.5em;
+    width: 200px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.add-btn{
+    background-color: lightgreen;
+}
+
+.remove-btn{
+    background-color: lightcoral;
+}
+
+/*LAYOUT*/
+
+.container{
+    margin: 1.5em auto;
+    width: 500px;
+}
